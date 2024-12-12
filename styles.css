@@ -27,3 +27,13 @@ h3{
     margin: 10px;
 }
 
+.table1 th,
+.table1 td{
+    border: 1px solid rgb(0, 162, 255);
+}
+
+.table2 th,
+.table2 td{
+    border: 2px solid rgb(255, 145, 0);
+}
+
