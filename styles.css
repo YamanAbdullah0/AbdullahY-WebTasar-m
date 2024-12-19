@@ -37,3 +37,21 @@ h3{
     border: 2px solid rgb(255, 145, 0);
 }
 
+table {
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+th, td {
+    padding: 0.5rem;
+    text-align:center;
+    border: 3px solid;
+}
+
+.red-border {
+    width: %90
+}
+
+.red-border th, .red-border td {
+    border-color: red
+}
